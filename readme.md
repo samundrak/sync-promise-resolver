@@ -70,3 +70,7 @@ syp(promiseArray)
   });
 
 ```
+
+### Output
+
+![output of synchronous promose resolver](img/demo.png)

@@ -2,8 +2,8 @@
   "name": "sync-promise-resolver",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/index.js",
-  "module": "dist/index.js",
+  "main": "dist/sync-promise.resolver.js",
+  "module": "dist/sync-promise.resolver.js",
   "scripts": {
     "build": "webpack"
   },

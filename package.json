@@ -1,6 +1,6 @@
 {
   "name": "sync-promise-resolver",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "dist/sync-promise.resolver.js",
   "module": "dist/sync-promise.resolver.js",
